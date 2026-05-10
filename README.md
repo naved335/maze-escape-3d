@@ -1,1 +1,1 @@
-# maze-escape-3d
+# maze-escape
